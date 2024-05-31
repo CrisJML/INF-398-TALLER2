@@ -13,3 +13,7 @@ Cristian Marín: En la parte 1 realizó el procedimiento para los 3 datasets dis
 
 Natalia Barraza: En la parte 1 realizó el análisis para el dataset de competencia y redactó la conclusión del análisis.
 En la parte 2 aportó en la ingeniería de atributos, implementó la mayor parte de los modelos y realizó el análisis final comparando los modelos.
+
+Observación:
+
+Para que el código funcione correctamente se necesitan los archivos que están dentro del repositorio.
